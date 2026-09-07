@@ -1,0 +1,15 @@
+name: enzyme-switch
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - biopython
+  - pandas
+  - numpy
+  - flake8
+  - jupyter
+  - scipy
+  - matplotlib
+prefix: /home/tulpari/miniforge3/envs/enzyme-switch
